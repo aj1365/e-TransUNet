@@ -30,7 +30,7 @@ abstract = {Forest loss significantly contributes to climate change. As a result
 
 Acknowledgement
 ---------------------
- 
+Spatial Transformer Networks can be accessed from (https://arxiv.org/abs/1506.02025)
 
 Weights
 ---------------------
